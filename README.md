@@ -2,6 +2,8 @@
 
 A practical, repeatable runbook based on a real `kubeadm` cluster upgrade from **Kubernetes 1.36.0 → 1.37.1** using **CRI-O**, Ubuntu 26.04 LTS, Flannel, OpenEBS, and a Volterra/F5 Distributed Cloud CE workload.
 
+![Overview](images/images1.png)
+
 > **Scope:** This repository documents the upgrade performed in October 2026 and turns the observed commands into a reusable runbook. Commands under `scripts/` are templates; review them against your environment before execution.
 
 ## Environment captured in the upgrade

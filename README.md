@@ -24,6 +24,8 @@ A practical, repeatable runbook based on a real `kubeadm` cluster upgrade from *
 
 The final `kubectl get nodes -o wide` showed all five nodes `Ready`, Kubernetes `v1.37.1`, and CRI-O `1.37.2`.
 
+![Overview of my homelab](images/image2.png)
+
 ## Official documentation
 
 - Kubernetes: Upgrading kubeadm clusters — https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/

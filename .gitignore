@@ -1,0 +1,9 @@
+*.db
+*.db.part
+*.bak
+*.backup
+.kube/
+*.kubeconfig
+.env
+*.key
+*.pem
